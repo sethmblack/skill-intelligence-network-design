@@ -3,8 +3,8 @@ name: intelligence-network-design
 description: Systematically gather intelligence before major decisions. Map what is known, unknown, and must be learned before action.
 license: MIT
 metadata:
+  version: 1.0.4246
   author: sethmblack
-  version: 1.0.4245
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - intelligence-network-design
